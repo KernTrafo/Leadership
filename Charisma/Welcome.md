@@ -1,4 +1,4 @@
-Welcome to our Charisma Training Repository.
+##Welcome to our Charisma Training Repository.
 
 You can utilize and modify all the files included here. Please keep in mind the following [licensing terms] (https://github.com/KernTrafo/Leadership/blob/main/LICENCE.md) when using them.
 
