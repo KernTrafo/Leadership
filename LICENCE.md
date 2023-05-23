@@ -12,8 +12,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 #### Under the following terms:
 **Attribution** — You must give appropriate credit (as mentioned in the respective files), provide a link to the license, and indicate if changes were made (You will find "How to contribute" files with upload links for additional materials and revised versions in the respective folders). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
--- hit
--- hit
+<br><br>
 
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
