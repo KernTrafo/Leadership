@@ -7,9 +7,9 @@ The Leadership Beginner Training supports those executives who are taking on a l
 In the leadership development program, executives work in stable learning groups in the modules "Change Management," "Personality," and "Charisma & Motivation," participating in training sessions and transfer phases. The individual modules are designed to provide the greatest value when combined, but they also function as standalone trainings. The executives receive comprehensive, scientifically founded theoretical and practical knowledge regarding all leadership requirements in the challenging context of transitioning from operation to decommissioning in the nuclear power industry, as well as in the long-term planning of the decommissioning process. As part of the KernTrafo project, all modules are conducted in decommissioning facilities (nuclear power plants) of RWE Nuclear GmbH and tailored to the specific requirements of nuclear power plant decommissioning in collaboration with the participating executives.
 
 Here, you can download all training materials for the individual modules:
-* [Leadership Beginner Training]
-* [Change Management]
-* [Personality]
+* [Leadership Beginner Training] - in progress
+* [Change Management] - in progress
+* [Personality] - in progress
 * [Charisma & Motivation](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
 
 
@@ -23,7 +23,7 @@ In dem Führungskräfteentwicklungsprogramm arbeiten die Führungskräfte in sta
 Die Führungskräfte erhalten ein umfassendes, wissenschaftlich fundiertes Fach- und Praxiswissen zu sämtlichen Führungsanforderungen in dem anspruchsvollen Umfeld eines Wechsels vom Leistungs- in den Rückbaubetrieb in der Kernkraft und der langfristigen Gestaltung des Rückbaus. Im Rahmen des Projekts KernTrafo werden sämtliche Module in Rückbauanlagen (Kernkraftwerke) der RWE Nuclear GmbH durchgeführt und in Zusammenarbeit mit den teilnehmenden Führungskräften an die speziellen Anforderungen des Rückbaus von Kernkraftwerken angepasst.
 
 Hier können sämtliche Trainingsunterlagen zu den einzelnen Modulen heruntergeladen werden:
-* [Training Führung Einsteiger]
-* [Change-Management]
-* [Persönlichkeit]
+* [Training Führung Einsteiger] - in Arbeit
+* [Change-Management] - in Arbeit
+* [Persönlichkeit] - in Arbeit
 * [Charisma & Motivation](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
