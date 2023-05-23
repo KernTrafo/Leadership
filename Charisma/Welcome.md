@@ -1,6 +1,6 @@
-##Welcome to our Charisma Training Repository.
+## Welcome to our Charisma Training Repository.
 
-You can utilize and modify all the files included here. Please keep in mind the following [licensing terms] (https://github.com/KernTrafo/Leadership/blob/main/LICENCE.md) when using them.
+You can utilize and modify all the files included here. Please keep in mind the following [licensing terms](https://github.com/KernTrafo/Leadership/blob/main/LICENCE.md) when using them.
 
 Open-source publications thrive on community participation. We love sharing our concepts and materials with everyone working in similar fields. Moreover, we would be delighted if you also contribute by sharing your content with others. To facilitate this, we have provided two folders in this GitHub repository: one for uploading revised versions of our materials and another for collecting new content, exercises, concepts, and entirely different approaches.
 
