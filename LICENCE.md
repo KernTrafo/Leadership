@@ -1,7 +1,7 @@
 ## All files published in this repository, as well as files in linked cloud directories, are subject to the following license:
 
 # Attribution 3.0 Unported (CC BY 3.0)
-[CC BY 3.0 Icon](https://github.com/KernTrafo/Leadership/blob/main/CC_BY_icon.svg)
+[![CC BY 3.0 Icon](https://github.com/KernTrafo/Leadership/blob/main/CC_BY_icon.svg)]
 ### Abstract
 #### You are free to:
 **Share** — copy and redistribute the material in any medium or format
