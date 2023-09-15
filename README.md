@@ -9,9 +9,9 @@ In dem Führungskräfteentwicklungsprogramm arbeiten die Führungskräfte in sta
 Die Führungskräfte erhalten ein umfassendes, wissenschaftlich fundiertes Fach- und Praxiswissen zu sämtlichen Führungsanforderungen in dem anspruchsvollen Umfeld eines Wechsels vom Leistungs- in den Rückbaubetrieb in der Kernkraft und der langfristigen Gestaltung des Rückbaus. Im Rahmen des Projekts KernTrafo werden sämtliche Module in Rückbauanlagen (Kernkraftwerke) der RWE Nuclear GmbH durchgeführt und in Zusammenarbeit mit den teilnehmenden Führungskräften an die speziellen Anforderungen des Rückbaus von Kernkraftwerken angepasst.
 
 Hier können sämtliche Trainingsunterlagen zu den einzelnen Modulen heruntergeladen werden:
-* [Training Führung Einsteiger] - in Arbeit
-* [Change-Management] - in Arbeit
-* [Persönlichkeit] - in Arbeit
+* [Training Führung Einsteiger](https://github.com/KernTrafo/Leadership/tree/main/Führung_Einsteiger)
+* [Change-Management](https://github.com/KernTrafo/Leadership/tree/main/Change-Management)
+* [Persönlichkeit](https://github.com/KernTrafo/Leadership/tree/main/Persönlichkeit)
 * [Charisma & Motivation](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
 
 ---
