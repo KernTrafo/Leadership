@@ -12,7 +12,7 @@ Hier können sämtliche Trainingsunterlagen zu den einzelnen Modulen heruntergel
 * [Training Führung Einsteiger]
 * [Change-Management]
 * [Persönlichkeit](https://github.com/KernTrafo/Leadership/tree/main/Persönlichkeit)
-* [Charisma & Motivation](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
+* [Charisma](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
 
 ---
 
@@ -27,4 +27,4 @@ Here, you can download all training materials for the individual modules:
 * [Leadership Beginner Training] - in progress
 * [Change Management] - in progress
 * [Personality] - in progress
-* [Charisma & Motivation](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
+* [Charisma](https://github.com/KernTrafo/Leadership/tree/main/Charisma)
